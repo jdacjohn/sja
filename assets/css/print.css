@@ -1,0 +1,61 @@
+*
+	{
+	background: white;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+	box-shadow:none;
+	text-shadow: none;
+	margin: 10px 20px;
+	padding: 0;
+	width: 100%;
+	}
+#head, #subnav, #foot, .tabs, #profile-nav, #intro div.paperclip, .photo, hr, #tab #styling #tab11
+	{
+	display: none;
+	}
+body, #container, #container #content, #container #content.full.profile, #container #content.full.profile #tab, #container #content.full.profile #tab #styling, #tab0 #intro, #tab0 #intro #info
+	{
+	width: 100%;
+	margin: 0;
+	float: none;
+	background: white;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+	box-shadow:none;
+	text-shadow: none;
+	margin: 10px 0;
+	padding: 0;
+	border: none;
+	}
+a:after
+	{
+	content: " ("attr(href)") ";
+	font-size: 10pt;
+	}
+h1, h2, h3, h4, h5, h6, p, ol, ul, li, a, #styling #intro #info h1, #styling #intro #info h2, #tab #styling #tab1 h2, #tab #styling #tab2 h2, #tab #styling #tab3 h2, #tab #styling #tab4 h2, #tab #styling #tab5 h2, #tab #styling #tab6 h2, #tab #styling #tab7 h2, #tab #styling #tab8 h2, #tab #styling #tab9 h2, #tab #styling #tab10 h2, #tab #styling #tab11 h2, #tab #styling #tab12 h2, #tab #styling #tab13 h2, #tab #styling #tab14 h2, #tab #styling #tab15 h2, #tab #styling #tab16 h2, #tab #styling #tab17 h2, #tab #styling #tab18 h2, #tab #styling #tab19 h2, #tab #styling #tab20 h2, #tab #styling #tab21 h2, #tab #styling #tab22 h2, #tab #styling #tab2 h3, #tab #styling #tab3 h3, #tab #styling #tab3 h4
+	{
+	color: #000;
+	text-shadow: none;
+	}
+p
+	{
+	padding-left: 0;
+	padding-right: 0;
+	}
+b
+	{
+	color: #000;
+	text-shadow: none;
+	}
+#styling #intro #info h1, #styling #intro #info h2, #tab #styling #tab1 h2, #tab #styling #tab2 h2, #tab #styling #tab3 h2, #tab #styling #tab4 h2, #tab #styling #tab5 h2, #tab #styling #tab6 h2, #tab #styling #tab7 h2, #tab #styling #tab8 h2, #tab #styling #tab9 h2, #tab #styling #tab10 h2, #tab #styling #tab11 h2, #tab #styling #tab12 h2, #tab #styling #tab13 h2, #tab #styling #tab14 h2, #tab #styling #tab15 h2, #tab #styling #tab16 h2, #tab #styling #tab17 h2, #tab #styling #tab18 h2, #tab #styling #tab19 h2, #tab #styling #tab20 h2, #tab #styling #tab21 h2, #tab #styling #tab22 h2
+	{
+	color: #000;
+	text-shadow: none;
+	border-top: 1px dotted #aaa;
+	margin: 0;
+	padding: 20px 0 20px 0;
+	}
+#tab1, #tab2, #tab3, #tab4, #tab5, #tab6, #tab7, #tab8, #tab9, #tab10, #tab12, #tab13, #tab14, #tab15, #tab16, #tab17, #tab18, #tab19, #tab20, #tab21, #tab22
+	{
+	display: block;
+	}

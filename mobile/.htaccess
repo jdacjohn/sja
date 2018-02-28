@@ -1,0 +1,19 @@
+RewriteEngine on
+
+DirectoryIndex main.php
+
+#Pages
+RewriteRule ^about-us/?$ about-us.php [NC]
+RewriteRule ^alumni/?$ alumni.php [NC]
+RewriteRule ^announcements/?$ announcements.php [NC]
+RewriteRule ^calendar/?$ calendar.php [NC]
+RewriteRule ^faculty/?$ faculty.php [NC]
+RewriteRule ^students/?$ students.php [NC]
+RewriteRule ^parents/?$ parents.php [NC]
+
+ErrorDocument 404 /-.php?404
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
